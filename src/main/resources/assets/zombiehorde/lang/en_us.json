@@ -1,0 +1,8 @@
+{
+  "zombiehorde.configuration.title": "Zombie Horde Configs",
+  "zombiehorde.configuration.section.zombiehorde.common.toml": "Zombie Horde Configs",
+  "zombiehorde.configuration.section.zombiehorde.common.toml.title": "Zombie Horde Configs",
+  "zombiehorde.configuration.spawnRateIncreasePercent": "Zombie Spawn Rate Increase (%)",
+  "zombiehorde.configuration.minExtraZombies": "Min Extra Zombies",
+  "zombiehorde.configuration.maxExtraZombies": "Max Extra Zombies"
+}
